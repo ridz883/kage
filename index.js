@@ -8,7 +8,7 @@ const server = http.createServer(app);
 const io = new Server(server);
 
 // --- KONFIGURASI TARGET ---
-const TARGET_URL = 'https://www.google.com'; 
+const TARGET_URL = 'https://ridz883.github.io/keyla19/'; 
 const PORT = process.env.PORT || 3000;
 
 // Dashboard HTML terintegrasi
